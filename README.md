@@ -13,7 +13,7 @@ Welcome to the Digital Agency Website project! This is a sample website created 
 ![Home](./Screenshots/Home.png)
 ![Services Section](./Screenshots/Services.png)
 ![Testimonial Section](./Screenshots/Testimonials.png)
-![Have Any Questions Section](./Screenshots/contact.png)
+![Have Any Questions Section](./Screenshots/Contact.png)
 
 ## Getting Started
 
